@@ -78,7 +78,7 @@ h6 {
   transition: all ease-in-out 0.5s;
   z-index: 9997;
   transition: all 0.5s;
-  padding: 0 15px;
+  padding: 0 10px;
   background: #040b14;
   overflow-y: auto;
 }
@@ -247,7 +247,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(69, 85, 177, 0.3);
   position: absolute;
   bottom: 0;
   top: 0;
