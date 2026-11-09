@@ -153,6 +153,22 @@ h6 {
   }
 }
 
+.photo-frame {
+    padding: 10px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.photo-frame img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
